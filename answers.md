@@ -1,0 +1,1 @@
+1.It picks the first option available in the list of ifs and else ifs.
